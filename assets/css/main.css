@@ -190,7 +190,8 @@ svg {
   vertical-align: middle; }
 
 table {
-  border-collapse: collapse; }
+  border-collapse: collapse;
+}
 
 caption {
   padding-top: 0.75rem;
@@ -1082,7 +1083,7 @@ pre {
 .table-borderless tbody + tbody {
   border: 0; }
 
-.table-striped tbody tr:nth-of-type(odd) {
+.table-striped tbody tr:nth-of-type(even) {
   background-color: rgba(0, 0, 0, 0.05); }
 
 .table-hover tbody tr:hover {
@@ -7415,7 +7416,7 @@ html {
   position: relative;
   width: 100%;
   min-height: 1px;
-  padding-right: 15px;
+  padding-right: 4px;
   padding-left: 15px; }
 
 .col {

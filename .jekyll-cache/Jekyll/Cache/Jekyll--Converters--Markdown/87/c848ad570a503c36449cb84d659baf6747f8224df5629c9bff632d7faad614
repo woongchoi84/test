@@ -1,0 +1,29 @@
+I"�<table class="table-comp table-striped table-hover">
+    <colgroup>
+    <col style="width:10%" />
+    <col style="width:30%" />
+    <col style="width:30%" />
+    <col style="width:30%" />
+</colgroup>  
+    
+    
+  <tr>
+    <th>제품</th>
+    <th><img class="card-img" src="https://thumbnail15.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2019/08/16/16/9/98997da1-d4e5-40c9-84a2-d491d4a78bf3.jpg" /></th>
+    <th><img class="card-img" src="https://thumbnail15.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/369009380562193-5c3dbb01-5605-4406-9007-eeb00f498560.jpg" /></th>
+    <th><img class="card-img" src="https://thumbnail15.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2019/08/16/16/9/98997da1-d4e5-40c9-84a2-d491d4a78bf3.jpg" /></th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+    <td>94</td>
+  </tr>
+</table>
+:ET

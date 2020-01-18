@@ -1,0 +1,29 @@
+I"�<table class="table-striped">
+    <colgroup>
+    <col style="width:10%" />
+    <col style="width:30%" />
+    <col style="width:30%" />
+    <col style="width:30%" />
+    </colgroup>  
+    
+    
+  <tr>
+    <th>사진</th>
+    <th>제품1</th>
+    <th>제품2</th>
+    <th>제품3</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+    <td>94</td>
+  </tr>
+</table>
+:ET

@@ -1,0 +1,80 @@
+I"<div class="container">
+<div class="row justify-content-center">
+    <div class="col-md-8">        
+        <div class="row align-items-center mb-5">
+            <div class="col-md-9">
+                <h2 class="font-weight-bold">Sal <span class="small btn btn-outline-success btn-sm btn-round"><a href="https://twitter.com/wowthemesnet">Follow</a></span></h2>
+                <p><a href=""></a></p>
+                <p class="excerpt">Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!</p>
+            </div>
+            <div class="col-md-3 text-right">
+                <img alt="비교쟁이" src="//assets/images/avatar1.jpg" class="rounded-circle" height="100" width="100" />
+            </div>
+        </div>
+        <h4 class="font-weight-bold spanborder"><span>Posts by Sal</span></h4>
+            
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/%EA%B5%AC%EB%A7%A4%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%85%B8%ED%8A%B8%EB%B6%81/">노트북 구매 가이드 (구매 팁)</a>
+	</h2>
+	<p class="excerpt">
+	   노트북은 한번 구매하면 최소 1~2년은 사용하고 가격도 만만치 않아 구매하는데 항상 고민인 항목이다. 독립형 태블릿과 스마트 폰보다 휴대성은 좀 떨어지지만 업무, 과제, 게임 등 대부분의 활용에서 노트북을 사용하는게 더 높은 생산성을 만들어 낸다.
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#가전디지털">가전디지털</a><span class="sep">, </span>
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#구매요령">구매요령</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 18, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/%EA%B5%AC%EB%A7%A4%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%85%B8%ED%8A%B8%EB%B6%81/">
+	<img class="w-100" src="https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825_1280.jpg" alt="노트북 구매 가이드 (구매 팁)" />
+	</a>
+	</div>
+
+</div>
+
+            
+            <div class="mb-5 d-flex justify-content-between main-loop-card">
+<div class="pr-3">
+	<h2 class="mb-1 h4 font-weight-bold">
+	<a class="text-dark" href="/%EA%B0%80%EC%A0%84%EB%94%94%EC%A7%80%ED%84%B8-%EC%83%A4%EC%98%A4%EB%AF%B8%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%AF%B8%EB%B0%B4%EB%93%9C/">스마트 밴드 비교 (미밴드4 vs 갤럭시 핏 vs 갤럭시 핏e)</a>
+	</h2>
+	<p class="excerpt">
+	                         제품                                                가격            Smith                50                50    평점(아마존)                                                
+	</p>
+	<small class="d-block text-muted">
+		In <span class="catlist">
+		
+		<a class="text-capitalize text-muted smoothscroll" href="/categories.html#가전디지털">가전디지털</a><span class="sep">, </span>
+		
+		</span>
+	</small>
+	<small class="text-muted">
+		Jan 18, 2020
+	</small>
+</div>
+
+	<div class="col-md-3 pr-0 text-right">
+	<a href="/%EA%B0%80%EC%A0%84%EB%94%94%EC%A7%80%ED%84%B8-%EC%83%A4%EC%98%A4%EB%AF%B8%EC%8A%A4%EB%A7%88%ED%8A%B8%EB%AF%B8%EB%B0%B4%EB%93%9C/">
+	<img class="w-100" src="https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825_1280.jpg" alt="스마트 밴드 비교 (미밴드4 vs 갤럭시 핏 vs 갤럭시 핏e)" />
+	</a>
+	</div>
+
+</div>
+
+            
+    </div>
+</div>
+</div>
+:ET

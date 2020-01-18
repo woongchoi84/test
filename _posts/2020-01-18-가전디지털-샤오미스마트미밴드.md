@@ -6,10 +6,61 @@ image: https://cdn.pixabay.com/photo/2015/07/17/22/43/student-849825_1280.jpg
 tags: [featured]
 ---
 
-
-
-
-
+<table class="table-comp table-striped table-hover">
+    <colgroup>
+    <col style="width:10%">
+    <col style="width:30%">
+    <col style="width:30%">
+    <col style="width:30%">
+</colgroup>  
+<tr><th>제품</th>
+    <th>
+        <img class="card-img" src="https://thumbnail15.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2019/08/16/16/9/98997da1-d4e5-40c9-84a2-d491d4a78bf3.jpg">
+    </th>
+    <th>
+        <img class="card-img" src="https://thumbnail15.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/369009380562193-5c3dbb01-5605-4406-9007-eeb00f498560.jpg">
+    </th>
+    <th>
+        <img class="card-img" src="https://thumbnail15.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2019/08/16/16/9/98997da1-d4e5-40c9-84a2-d491d4a78bf3.jpg">
+    </th>
+</tr>
+<tr><td>가격</td>
+    <td>
+        Smith
+    </td>
+    <td>
+        50
+    </td>
+    <td>
+        50
+    </td>
+</tr>
+    
+<tr><td>평점<br>(아마존)</td>
+    <td>
+        <div class="rating-box"><div class="rating" style="width:70%;"></div></div>
+    </td>
+    <td>
+        <div class="rating-box"><div class="rating" style="width:82%;"></div></div>
+    </td>
+    <td>
+        <div class="rating-box"><div class="rating" style="width:86%;"></div></div>
+    </td>
+</tr>
+    
+<tr><td>평점<br>(아마존)</td>
+    <td>
+        5 star: <p class="styled"><meter min="0" max="100" low="25" high="75" optimum="100" value="1"></meter></p>
+    </td>
+    <td>
+        <p class="styled"><meter min="0" max="100" low="25" high="75" optimum="100" value="10"></meter></p>
+    </td>
+    <td>
+        <p class="styled"><meter min="0" max="100" low="25" high="75" optimum="100" value="99"></meter></p>
+    </td>
+</tr>
+    
+</table> 
 
 
 <div>

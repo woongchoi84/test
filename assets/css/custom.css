@@ -131,3 +131,20 @@ progress {
 	Flex Container
 	================================================== */
 
+.table-comp {
+  width: 100%;
+  margin-bottom: 0rem;
+  background-color: transparent; }
+  .table-comp th,
+  .table-comp td {
+    padding: 0rem;
+    text-align: center;
+    vertical-align: center;
+    border-top: 0.5px solid #dee2e6; }
+  .table-comp thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6; }
+  .table-comp tbody + tbody {
+    border-top: 2px solid #dee2e6; }
+  .table-comp .table-comp {
+    background-color: #fff; }

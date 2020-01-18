@@ -1,0 +1,53 @@
+I"b<table class="table table-hover">
+    <colgroup>
+    <col style="width:10%" />
+    <col style="width:30%" />
+    <col style="width:30%" />
+    <col style="width:30%" />
+</colgroup>  
+    
+    
+  <tr>
+    <th>제품 이미지</th>
+    <th><img src="https://thumbnail15.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2019/08/16/16/9/98997da1-d4e5-40c9-84a2-d491d4a78bf3.jpg" /></th>
+    <th>Age</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+    <td>94</td>
+  </tr>
+</table>
+
+<p><img src="https://thumbnail15.coupangcdn.com/thumbnails/remote/230x230ex/image/retail/images/2019/08/16/16/9/98997da1-d4e5-40c9-84a2-d491d4a78bf3.jpg" alt="" /></p>
+
+<div>
+  <p class="styled">
+    <meter min="0" max="100" low="25" high="75" optimum="100" value="10"></meter>
+  </p>
+  <p class="styled">
+    <meter min="0" max="100" low="25" high="75" optimum="100" value="50"></meter>
+  </p>
+  <p class="styled">
+    <meter min="0" max="100" low="25" high="75" optimum="100" value="80"></meter>
+  </p>
+</div>
+
+<div class="rating-box">
+    <div class="rating" style="width:80%;"></div>
+</div>
+
+<div class="rating-box">
+    <div class="rating" style="width:95%;"></div>
+</div>
+
+<p>터치 스크린에서 지문 판독기, 듀얼 그래픽 칩, 태블릿과 데스크톱 모드 간 전환 기능에 이르기까지 다양한 기능을 제공한다. 필자는 (“그냥 맥북이 좋아요”) 라는 특별한 목적이 있지 않은 이상 다양한 프로그램에 호환성 좋은 윈도우를 추천한다.</p>
+:ET

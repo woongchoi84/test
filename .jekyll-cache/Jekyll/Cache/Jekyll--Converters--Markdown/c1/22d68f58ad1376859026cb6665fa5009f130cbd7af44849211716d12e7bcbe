@@ -1,0 +1,29 @@
+I"Ù<table class="table-striped table-hover">
+    <colgroup>
+    <col style="width:10%" />
+    <col style="width:30%" />
+    <col style="width:30%" />
+    <col style="width:30%" />
+</colgroup>  
+    
+    
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+    <td>94</td>
+  </tr>
+</table>
+:ET
