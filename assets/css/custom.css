@@ -1,0 +1,133 @@
+/*	==================================================
+	Progress & Meter
+	================================================== */
+meter,
+progress {
+  width: 100%;
+}
+
+.styled progress {
+  /* Reset the default appearance */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+
+  width: 100%;
+  height: 10px;
+
+  /* Firefox */
+  border: none;
+  background: #EEE;
+  border-radius: 3px;
+  box-shadow: 0 2px 3px rgba(0,0,0,0.2) inset;
+}
+
+.styled progress::-webkit-progress-bar {
+  background: #EEE;
+  box-shadow: 0 2px 3px rgba(0,0,0,0.2) inset;
+  border-radius: 3px;
+}
+
+.styled progress::-webkit-progress-value {
+  background-color: #CC0000;
+  border-radius: 3px;
+}
+
+.styled progress::-moz-progress-bar {
+  background-color: #CC0000;
+  border-radius: 3px;
+}
+
+
+
+
+.styled meter {
+  /* Reset the default appearance */
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+
+  width: 100%;
+  height: 10px;
+  
+  /* For Firefox */
+  background: #EEE;
+  box-shadow: 0 2px 3px rgba(0,0,0,0.2) inset;
+  border-radius: 3px;
+}
+
+/* WebKit */
+.styled meter::-webkit-meter-bar {
+  background: #EEE;
+  box-shadow: 0 2px 3px rgba(0,0,0,0.2) inset;
+  border-radius: 3px;
+}
+
+.styled meter::-webkit-meter-optimum-value,
+.styled meter::-webkit-meter-suboptimum-value,
+.styled meter::-webkit-meter-even-less-good-value {
+  border-radius: 3px;
+}
+
+.styled meter::-webkit-meter-optimum-value {
+  background: #86CC00;
+}
+
+.styled meter::-webkit-meter-suboptimum-value {
+  background: #FFDB1A;
+}
+
+.styled meter::-webkit-meter-even-less-good-value  {
+  background: #CC4600;
+}
+
+
+/* Firefox */
+.styled meter::-moz-meter-bar {
+  border-radius: 3px;
+}
+
+.styled meter:-moz-meter-optimum::-moz-meter-bar {
+  background: #86CC00;
+}
+
+.styled meter:-moz-meter-sub-optimum::-moz-meter-bar {
+  background: #FFDB1A;
+}
+
+.styled meter:-moz-meter-sub-sub-optimum::-moz-meter-bar {
+  background: #CC4600;
+}
+
+/*	==================================================
+	Star Rating
+	================================================== */
+
+.rating-box {
+  position:relative;
+  vertical-align: middle;
+  font-size: 1em;
+  font-family: FontAwesome;
+  display:inline-block;
+  color: #F68127;
+}
+.rating-box:before{
+    content: "\f006 \f006 \f006 \f006 \f006";
+  }
+.rating-box .rating {
+    position: absolute;
+    left:0;
+    top:0;
+    white-space:nowrap;
+    overflow:hidden;
+    color: #F68127;
+  }
+  .rating-box .rating:before {
+      content: "\f005 \f005 \f005 \f005 \f005";
+    }
+}
+
+/*	==================================================
+	Flex Container
+	================================================== */
+
